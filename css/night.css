@@ -1,0 +1,52 @@
+/*
+	CSS for the nightlife theme of shifthappens.nl v1
+*/
+
+/*
+	HTML tags
+*/
+
+body, div.container {
+	background: #150F09;
+	font-family: "Helvetica", "Arial", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #EB5A09;
+	
+}
+
+a, a:active {
+	color: #814B37;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #EB5A09;
+	text-decoration: underline;
+}
+
+p, span {
+	color: #52422C;
+	font-size: 10pt;
+	font-stretch: narrower;
+}
+
+div.block {
+	background: #FFEEAB;
+}
+
+
+/*
+	General classes
+*/
+
+
+/*
+	Specific classes
+*/
+
+.logo {
+	background: url(../images/logo-name100.png) no-repeat;
+	height: 100px;
+}

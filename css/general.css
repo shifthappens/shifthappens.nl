@@ -1,0 +1,12 @@
+/*
+	General styles that 'extend' blueprint a little bit with standard class names that do certain things to styles
+	such as no border, no margin, or no bg color
+*/
+
+.nobackground {
+	background: transparent !important;
+}
+
+.textjustify {
+	text-align: justify;
+}
